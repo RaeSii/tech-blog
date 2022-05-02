@@ -1,3 +1,5 @@
-DROP DATABASE IF EXISTS forumfeed_db;
+DROP DATABASE IF EXISTS TechBlog_db;
 
-CREATE DATABASE forumfeed_db;
+CREATE DATABASE TechBlog_db;
+
+
